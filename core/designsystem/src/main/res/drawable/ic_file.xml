@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated from design assets by svg2vd.py; do not edit by hand. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="22.1875"
+    android:viewportHeight="22.1875">
+    <group android:translateX="-8.9062" android:translateY="-8.9062">
+        <path
+            android:pathData="M26.25 19.6875V21.875V27.1875C26.25 27.705 25.83 28.125 25.3125 28.125H14.6875C14.17 28.125 13.75 27.705 13.75 27.1875V12.8125C13.75 12.295 14.17 11.875 14.6875 11.875H16.875H18.4375M26.25 19.6875C26.25 18.9416 25.9537 18.2262 25.4262 17.6988C24.8988 17.1713 24.1834 16.875 23.4375 16.875H22.1875C21.9389 16.875 21.7004 16.7762 21.5246 16.6004C21.3488 16.4246 21.25 16.1861 21.25 15.9375V14.6875C21.25 13.9416 20.9537 13.2262 20.4262 12.6988C19.8988 12.1713 19.1834 11.875 18.4375 11.875M26.25 19.6875V19.375C26.25 17.3859 25.4598 15.4782 24.0533 14.0717C22.6468 12.6652 20.7391 11.875 18.75 11.875H18.4375"
+            android:strokeColor="#FF000000"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+</vector>

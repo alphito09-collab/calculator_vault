@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Only the short-lived decrypted cache is ever shared, and it is wiped when the vault locks. -->
+<paths>
+    <cache-path name="decrypted" path="decrypted/" />
+</paths>

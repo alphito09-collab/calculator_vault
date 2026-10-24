@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Android 11 and lower. Back up settings and the wrapped vault config so a reinstall on the
+    same Google account comes back configured. Encrypted vault content itself lives in shared
+    storage (survives uninstall) and in the optional Google Drive backup.
+
+    Listing includes means nothing else is backed up: keystore-bound device_state can't move
+    devices and the Room index is rebuilt from the encrypted folder.
+-->
+<full-backup-content>
+    <include domain="file" path="vault.json" />
+    <include domain="file" path="datastore/vault_settings.preferences_pb" />
+</full-backup-content>

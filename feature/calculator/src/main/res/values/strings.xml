@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calculator_fingerprint_title">Unlock with fingerprint</string>
+    <string name="calculator_use_pin">Use PIN</string>
+    <string name="calculator_fingerprint_changed">Fingerprints changed on this device. Unlock with your PIN and turn fingerprint on again.</string>
+    <string name="calculator_forgot_title">Forgot your PIN?</string>
+    <string name="calculator_forgot_message_one">Verify it\'s you with your recovery method, then set a new PIN.</string>
+    <string name="calculator_forgot_message_many">Choose how to verify it\'s you. You\'ll set a new PIN right after.</string>
+    <string name="calculator_forgot_continue">Continue</string>
+    <string name="calculator_cancel">Cancel</string>
+    <string name="calculator_verify_fingerprint">Verify your fingerprint</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos_empty_title">No photos yet</string>
+    <string name="photos_empty_message">Import photos from your gallery to keep them private.</string>
+    <string name="photos_import">Import photos</string>
+    <string name="photos_slideshow">Slideshow</string>
+    <string name="photos_slideshow_interval">Slideshow interval</string>
+    <string name="photos_save">Save</string>
+    <string name="photos_seconds">%1$ds</string>
+</resources>

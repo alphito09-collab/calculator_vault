@@ -1,0 +1,20 @@
+HTTP/2 200 
+content-type: application/json; charset=utf-8
+content-length: 60480
+date: Thu, 22 Oct 2026 17:25:56 GMT
+x-figma-rest-api-request-id: fa5d3809-fb7e-475e-99c3-8ee86a8d827c
+access-control-allow-origin: *
+access-control-allow-headers: Content-Type, X-Figma-Token, Authorization
+access-control-expose-headers: Retry-After, X-Figma-Plan-Tier, X-Figma-Rate-Limit-Type, X-Figma-Upgrade-Link
+cache-control: no-cache, no-store
+etag: W/"ec40-0LaFsGAadL1M/Vr9tGaf91WYCgY"
+x-content-type-options: nosniff
+vary: X-Figma-Token,Authorization,Accept-Encoding
+x-cache: Miss from cloudfront
+via: 1.1 e1a8f08c00884c1e83bb4a8210dbb984.cloudfront.net (CloudFront)
+x-amz-cf-pop: DXB53-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: MXi6I7PpqB3a-vm6RlW26oMO3ZPLIm49rFKhDcAABtDB59un5VRW5A==
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+server-timing: cdn-upstream-layer;desc="REC",cdn-upstream-dns;dur=0,cdn-upstream-connect;dur=0,cdn-upstream-fbl;dur=698,proxy;dur=236,cdn-cache-miss,cdn-pop;desc="DXB53-P3",cdn-rid;desc="MXi6I7PpqB3a-vm6RlW26oMO3ZPLIm49rFKhDcAABtDB59un5VRW5A==",cdn-downstream-fbl;dur=728
+

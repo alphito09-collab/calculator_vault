@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="applock_title">App lock</string>
+    <string name="applock_search">Search apps</string>
+    <string name="applock_search_hint">Search apps</string>
+    <string name="applock_settings">App lock settings</string>
+    <string name="applock_all">All</string>
+    <string name="applock_hint">Tap on lock to add any app in App Lock</string>
+    <string name="applock_locked_toast">App locked</string>
+    <string name="applock_usage_title">Allow usage access</string>
+    <string name="applock_usage_message">App Lock needs usage access to know when a locked app is opened. Turn on “Calculator Vault” in the list.</string>
+    <string name="applock_overlay_title">Allow display over other apps</string>
+    <string name="applock_overlay_message">This lets the lock screen appear on top of the app you are protecting.</string>
+    <string name="applock_grant">Grant access</string>
+    <string name="applock_settings_title">App Lock</string>
+    <string name="applock_settings_desc">PIN is required when you return</string>
+    <string name="applock_lock_after">Lock after</string>
+    <string name="applock_immediately">Immediately</string>
+    <string name="applock_after_30s">After 30 seconds</string>
+    <string name="applock_after_1m">After 1 minute</string>
+    <string name="applock_after_5m">After 5 minutes</string>
+    <string name="applock_authentication">Authentication</string>
+    <string name="applock_method_pin">PIN</string>
+    <string name="applock_method_fingerprint">Fingerprint</string>
+    <string name="applock_method_pattern">Pattern</string>
+    <string name="applock_set_pattern">Tap to set a pattern</string>
+    <string name="applock_change_pattern">Tap to change pattern</string>
+    <string name="applock_channel">App Lock</string>
+    <string name="applock_notification_title">App Lock is on</string>
+    <string name="applock_notification_text">Protecting your locked apps</string>
+    <string name="applock_unlock_title">Unlock %1$s</string>
+    <string name="applock_use_pin">Use PIN</string>
+    <string name="applock_enter_pin">Enter your PIN to continue</string>
+    <string name="applock_draw_pattern">Draw your pattern to continue</string>
+    <string name="applock_wrong_pin">Wrong PIN. Try again.</string>
+    <string name="applock_wrong_pattern">Wrong pattern. Try again.</string>
+    <string name="applock_fgs_reason">Shows a lock screen over apps the user chose to protect.</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intruder_title">Intruder detection</string>
+    <string name="intruder_detection_desc">Logs wrong PINs once the limit below is reached</string>
+    <string name="intruder_selfie">Intruder selfie</string>
+    <plurals name="intruder_selfie_desc">
+        <item quantity="one">A photo is taken after %1$d failed attempt</item>
+        <item quantity="other">A photo is taken after %1$d failed attempts</item>
+    </plurals>
+    <string name="intruder_limit_title">Wrong PIN limit</string>
+    <string name="intruder_limit_desc">After this many wrong PINs in a row, the attempt is logged and a selfie is taken.</string>
+    <string name="intruder_failed_week">Failed attempts this week</string>
+    <string name="intruder_photos_captured">Photos captured on failure</string>
+    <string name="intruder_attempts">Unlock attempts</string>
+    <string name="intruder_clear">Clear</string>
+    <string name="intruder_clear_title">Clear history?</string>
+    <string name="intruder_clear_message">All logged attempts and captured photos will be deleted.</string>
+    <string name="intruder_none_title">No attempts recorded</string>
+    <string name="intruder_none_message">Wrong PINs past your limit show up here with the time, and a photo if the camera was available.</string>
+    <string name="intruder_photo">Photo</string>
+    <string name="intruder_no_photo">No photo</string>
+    <string name="intruder_photo_title">Intruder photo</string>
+    <plurals name="intruder_failed_attempts">
+        <item quantity="one">%1$d failed attempt</item>
+        <item quantity="other">%1$d failed attempts</item>
+    </plurals>
+</resources>

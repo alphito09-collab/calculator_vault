@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="trash_title">Trash</string>
+    <string name="trash_empty_action">Empty</string>
+    <string name="trash_delete_forever">Delete forever</string>
+    <string name="trash_empty_title">Trash is empty</string>
+    <string name="trash_empty_message">Deleted photos, videos, audio and files stay here for 30 days before they are removed for good.</string>
+    <string name="trash_retention_note">Items are permanently deleted after %1$d days.</string>
+    <string name="trash_empty_confirm_title">Empty trash?</string>
+    <string name="trash_empty_confirm_message">All %1$d items will be permanently deleted. This can\'t be undone.</string>
+    <plurals name="trash_days_left">
+        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d days</item>
+    </plurals>
+    <plurals name="trash_restored">
+        <item quantity="one">%1$d item restored</item>
+        <item quantity="other">%1$d items restored</item>
+    </plurals>
+    <plurals name="trash_deleted">
+        <item quantity="one">%1$d item deleted forever</item>
+        <item quantity="other">%1$d items deleted forever</item>
+    </plurals>
+</resources>

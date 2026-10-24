@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_today">Today</string>
+    <string name="ui_album_storage_root">Internal storage</string>
+    <string name="ui_album_device_storage">Device storage</string>
+    <string name="ui_album_other">Other</string>
+    <string name="ui_yesterday">Yesterday</string>
+    <string name="ui_today_at">Today, %1$s</string>
+    <string name="ui_yesterday_at">Yesterday, %1$s</string>
+
+    <string name="ui_type_photo">photo</string>
+    <string name="ui_type_photos">photos</string>
+    <string name="ui_type_video">video</string>
+    <string name="ui_type_videos">videos</string>
+    <string name="ui_type_audio">audio</string>
+    <string name="ui_type_file">file</string>
+    <string name="ui_type_files">files</string>
+    <string name="ui_type_items">items</string>
+    <string name="ui_title_photos">Photos</string>
+    <string name="ui_title_videos">Videos</string>
+    <string name="ui_title_audio">Audio</string>
+    <string name="ui_title_files">Files</string>
+
+    <string name="ui_share">Share</string>
+    <string name="ui_delete">Delete</string>
+    <string name="ui_unhide">Unhide</string>
+    <string name="ui_hide">Hide</string>
+    <string name="ui_restore">Restore</string>
+    <string name="ui_rename">Rename</string>
+    <string name="ui_details">Details</string>
+    <string name="ui_slideshow">Slider</string>
+    <string name="ui_close">Close</string>
+    <string name="ui_cancel">Cancel</string>
+    <string name="ui_save">Save</string>
+    <string name="ui_layout">Layout</string>
+
+    <string name="ui_delete_title">Delete %1$s</string>
+    <string name="ui_delete_message">Are you sure you want to delete %1$d %2$s? They will be moved to Trash for 30 days.</string>
+    <string name="ui_unhide_title">Unhide %1$s</string>
+    <string name="ui_unhide_message">Are you sure you want to move %1$d %2$s to your local storage?</string>
+    <string name="ui_hide_title">Hide %1$s</string>
+    <string name="ui_hide_message">Are you sure you want to hide %1$d %2$s from your device? They will no longer be shown in your gallery.</string>
+    <string name="ui_restore_title">Restore items</string>
+    <string name="ui_restore_message">Restore %1$d items back to the vault?</string>
+    <string name="ui_delete_forever_title">Delete forever</string>
+    <string name="ui_delete_forever_message">%1$d items will be permanently deleted. This can\'t be undone.</string>
+    <string name="ui_transfer_progress">%1$d of %2$d</string>
+    <string name="ui_hiding">Hiding…</string>
+    <string name="ui_unhiding">Moving to device…</string>
+
+    <string name="ui_rename_title">Rename file</string>
+    <string name="ui_detail_original_path">Original path</string>
+    <string name="ui_detail_current_path">Current path</string>
+    <string name="ui_detail_in_vault">Encrypted in vault</string>
+    <string name="ui_detail_resolution">Resolution</string>
+    <string name="ui_detail_created">Created time</string>
+    <string name="ui_detail_hidden">Hidden on</string>
+
+    <string name="ui_files_permission_title">Manage files permission</string>
+    <string name="ui_files_permission_message">Calculator Vault needs access to manage your files for seamless organization and security. Your hidden files are kept encrypted in a private folder that stays safe even if the app is reinstalled.</string>
+    <string name="ui_allow_access">Allow access</string>
+    <string name="ui_deny">Deny</string>
+    <string name="ui_offline">No internet connection</string>
+    <string name="ui_error_generic">Something went wrong. Please try again.</string>
+    <string name="ui_items_count">%1$d items</string>
+    <string name="ui_selected_hidden">%1$d hidden</string>
+    <string name="ui_selected_unhidden">%1$d moved to your device</string>
+    <string name="ui_moved_to_trash">Moved to Trash</string>
+    <string name="ui_renamed">Renamed</string>
+    <string name="ui_icon_label_default">Calculator Vault</string>
+    <string name="ui_icon_label_calculator">Calculator</string>
+    <string name="ui_icon_label_music">Music</string>
+    <string name="ui_icon_label_notes">Notes</string>
+    <string name="ui_icon_label_maps">Maps</string>
+    <string name="ui_icon_category_default">Default</string>
+    <string name="ui_icon_category_calculator">Calculator</string>
+    <string name="ui_icon_category_music">Music Player</string>
+    <string name="ui_icon_category_notes">Notes</string>
+    <string name="ui_icon_category_maps">Maps</string>
+    <string name="ui_exit_title">Exit app?</string>
+    <string name="ui_exit_message">Are you sure you want to close the app?</string>
+    <string name="ui_exit">Exit</string>
+    <string name="ui_select_items">Select</string>
+    <string name="ui_grid_large">Large grid</string>
+    <string name="ui_grid_medium">Medium grid</string>
+    <string name="ui_grid_small">Small grid</string>
+    <string name="ui_group_by_date">Group by date</string>
+    <string name="ui_recovery_use_fingerprint">Use your fingerprint</string>
+    <string name="ui_recovery_use_pattern">Draw your pattern</string>
+    <string name="ui_recovery_use_email">Send a code to your email</string>
+    <string name="ui_recovery_use_question">Answer your security question</string>
+    <string name="ui_reset_code_title">Forgot your PIN?</string>
+    <string name="ui_reset_code_message">Type %1$s on the calculator and press = to set a new PIN.</string>
+</resources>

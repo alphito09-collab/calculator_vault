@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title_first">Calculator</string>
+    <string name="home_title_accent">Vault</string>
+    <string name="home_tools">Tools</string>
+    <string name="home_files">Files</string>
+    <string name="home_tool_app_lock">App Lock</string>
+    <string name="home_tool_themes">Themes</string>
+    <string name="home_tool_cloud_backup">Cloud Backup</string>
+    <string name="home_tool_intruder">Intruder</string>
+    <string name="home_photos">Photos</string>
+    <string name="home_videos">Videos</string>
+    <string name="home_audio">Audio</string>
+    <string name="home_files_category">Files</string>
+    <plurals name="home_items">
+        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d items</item>
+    </plurals>
+    <string name="home_banner_backup_title">Enable Cloud backup</string>
+    <string name="home_banner_backup_message">Secure backup for your private photos</string>
+    <string name="home_banner_recovery_title">Add Recovery Method</string>
+    <string name="home_banner_recovery_message">Secure your account if you forget your password.</string>
+    <string name="home_add">Add</string>
+    <string name="home_add_camera">Camera</string>
+    <string name="home_add_music">Music</string>
+    <string name="home_add_files">Files</string>
+    <string name="home_add_videos">Videos</string>
+    <string name="home_add_photo">Photo</string>
+    <string name="home_restore_title">Restore your vault?</string>
+    <string name="home_restore_message">We found a vault created %1$s with %2$d items on this device. Enter the PIN you used before to restore it.</string>
+    <string name="home_restore">Restore</string>
+    <string name="home_start_fresh">Start fresh</string>
+    <string name="home_restore_pin_hint">Previous 4-digit PIN</string>
+    <string name="home_restore_wrong_pin">That PIN didn\'t open the previous vault.</string>
+    <string name="home_restored">Vault restored. Unlock it with your previous PIN from now on.</string>
+</resources>

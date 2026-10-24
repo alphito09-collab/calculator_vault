@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_title_1">Your private files stay safe inside your vault.</string>
+    <string name="onboarding_title_2">Your vault looks and works like a regular calculator.</string>
+    <string name="onboarding_title_3">Your private vault stays protected with a PIN.</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_continue">Continue</string>
+</resources>

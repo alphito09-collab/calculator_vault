@@ -1,0 +1,98 @@
+93:616	Frame	24	24	48:7479 Photos - Screen 8	40	000000
+93:619	Container	24	24	48:7479 Photos - Screen 8	9	000000
+42:1076	Component 1	22	22	42:1020 Create Password - Screen 1	13	1C1B22
+42:1908	Icon Container	45	36	42:1199 Recovery Method - Screen 1	2	EEF0F5
+93:1223	Icon Container	45	36	42:1199 Recovery Method - Screen 1	2	EEF0F5
+93:1227	Component 2	14	16	42:1199 Recovery Method - Screen 1	15	8B8894
+93:1230	Icon Container	45	36	42:1199 Recovery Method - Screen 1	2	EEF0F5
+42:1915	Icon Container	45	36	42:1199 Recovery Method - Screen 1	2	EEF0F5
+I42:1277;106:62094	Emoji	27	27	42:1241 Recovery PIN - Screen 1a	1	222B59
+I42:1277;3005:39832	Mic	19	28	42:1241 Recovery PIN - Screen 1a	1	222B59
+48:7079	Icon Container	56	40	48:7075 Home Screen	5	E8F2FD
+48:7089	Background+Shadow	64	66	48:7075 Home Screen	6	FFFFFF
+48:7120	Component 2	20	20	48:7075 Home Screen	4	3B94ED
+48:7127	back	24	24	48:7075 Home Screen	6	F7F6F2
+48:7148	Frame	20	20	48:7075 Home Screen	3	3B8091
+48:7152	Frame	20	20	48:7075 Home Screen	3	873B91
+48:7157	Frame	20	20	48:7075 Home Screen	3	3B4191
+48:7161	Frame	20	20	48:7075 Home Screen	3	6A913B
+48:7168	Container	40	40	48:7075 Home Screen	5	7B7BFF
+48:7177	Container	40	40	48:7075 Home Screen	5	3B94ED
+48:7186	Container	40	40	48:7075 Home Screen	5	FF7439
+48:7195	Container	40	40	48:7075 Home Screen	5	34D399
+71:660	Icon Container	56	40	71:651 Home Screen	1	7B7C82
+71:655	Icon Container	51	36	71:651 Home Screen	1	E8F2FD
+71:868	Container	20	20	71:651 Home Screen	3	23598E
+71:853	Container	15	15	71:651 Home Screen	11	BDBBB6
+71:832	Container	20	20	71:651 Home Screen	2	23598E
+71:837	Container	20	20	71:651 Home Screen	1	23598E
+71:877	Container	20	20	71:651 Home Screen	1	23598E
+71:925	Container	20	20	71:651 Home Screen	1	23598E
+71:957	Container	20	20	71:651 Home Screen	1	23598E
+93:2152	language	28	28	93:1759 Home Screen	1	AAAAAA
+93:2157	Flag	28	28	93:1759 Home Screen	1	FFDA44
+93:2166	icons8_germany 1	28	28	93:1759 Home Screen	1	455A64
+93:2171	Flag	28	28	93:1759 Home Screen	5	F0F0F0
+48:7251	Frame	20	20	48:7206 Home Screen	4	3B94ED
+48:4097	Component 1	18	18	48:4072 Photos - Empty State Screen	14	FFFFFF
+48:4100	div	72	72	48:4072 Photos - Empty State Screen	1	EFEDE7
+93:589	Button	64	64	93:545 Photos Layout	1	3B94ED
+48:6016	div	26	26	48:5962 Photos - Screen 4	27	FFFFFF
+71:1435	Container	24	24	48:5962 Photos - Screen 4	5	6E6B63
+48:8080	div	44	44	48:7997 Photos - Screen 10	38	FFFFFF
+56:9587	div	44	44	56:9434 Photos - Screen 15	4	E8F2FD
+57:9616	div	44	44	57:9613 Photos - Screen 16	4	E8F2FD
+57:9626	div	44	44	57:9613 Photos - Screen 16	2	E8F2FD
+57:9646	div	44	44	57:9613 Photos - Screen 16	2	E8F2FD
+66:15464	Background	44	44	66:15381 Photos - Screen 24	2	E7F2FD
+66:15595	Container	22	20	66:15381 Photos - Screen 24	2	23598E
+66:15600	Container	20	20	66:15381 Photos - Screen 24	2	23598E
+93:2658	Frame	20	20	66:15381 Photos - Screen 24	1	23598E
+66:15966	Container	21	21	66:15857 Photos - Screen 26	1	3B94ED
+66:16146	Background	44	44	66:16063 Photos - Screen 28	2	E7F2FD
+66:16598	Container	26	26	66:16063 Photos - Screen 28	1	BDBBB6
+66:16715	Container	22	22	66:16653 Photos - Screen 30	1	23598E
+71:437	Container	22	20	66:16653 Photos - Screen 30	2	23598E
+66:16863	Container	19	19	66:16653 Photos - Screen 30	2	FFFFFF
+66:16957	Container	22	22	66:16878 Photos - Screen 31	1	C2536B
+66:16606	Background	48	48	66:16496 Photos - Screen 29	1	6E6B63
+66:16633	Background	48	48	66:16496 Photos - Screen 29	1	6E6B63
+66:14068	div	25	25	57:10286 Photos - Screen 22	40	FFFFFF
+57:10414	Component 1	24	24	57:10286 Photos - Screen 22	14	1C1B22
+66:14688	div	44	44	57:9691 Photos - Screen 17	10	FFFFFF
+66:14986	div	44	44	57:9691 Photos - Screen 17	3	FFFFFF
+57:9810	div	44	44	57:9691 Photos - Screen 17	1	FFFFFF
+57:10122	Component 1	16	16	57:9972 Photos - Screen 19	2	3B94ED
+57:10107	div	35	35	57:9972 Photos - Screen 19	2	FFFFFF
+57:10116	Component 1	22	22	57:9972 Photos - Screen 19	2	FFFFFF
+93:4367	Component 1	59	59	93:4341 Photos - Screen 40	2	FFFFFF
+93:4374	fi_9345793	24	24	93:4341 Photos - Screen 40	2	00153A
+93:4382	fi_9345793	24	24	93:4341 Photos - Screen 40	2	00153A
+93:4384	Frame	24	24	93:4341 Photos - Screen 40	2	00153A
+93:4398	Frame	24	24	93:4341 Photos - Screen 40	2	00153A
+93:4400	fi_9345793	24	24	93:4341 Photos - Screen 40	4	00153A
+93:4402	Group 34	64	64	93:4341 Photos - Screen 40	2	3B7DED
+93:4407	Frame	24	24	93:4341 Photos - Screen 40	2	00153A
+66:15043	Frame	18	18	66:14219 Home - Add - Screen	4	3B94ED
+66:14342	Component 1	16	16	66:14219 Home - Add - Screen	2	FFFFFF
+66:14370	Container	19	19	66:14219 Home - Add - Screen	2	23598E
+66:15036	Container	19	19	66:14219 Home - Add - Screen	2	FFFFFF
+93:3199	Launcher Icon	40	40	93:2702 Home - Add - Screen	2	185ABC
+93:3584	fi_9502765	24	24	93:2702 Home - Add - Screen	13	D0D0D0
+93:3212	google	40	40	93:2702 Home - Add - Screen	2	FBBC05
+93:3218	signal	40	40	93:2702 Home - Add - Screen	2	FFFFFF
+93:3224	twitter	40	40	93:2702 Home - Add - Screen	2	FFFFFF
+93:3230	Launcher Icon	40	40	93:2702 Home - Add - Screen	2	34A853
+93:3242	Group 26935	40	40	93:2702 Home - Add - Screen	2	407BFF
+93:3255	Launcher Icon	40	40	93:2702 Home - Add - Screen	2	407BFF
+93:3187	fi_622669	24	24	93:2702 Home - Add - Screen	2	333333
+93:3589	fi_9502765	24	24	93:2702 Home - Add - Screen	1	FFFFFF
+93:3317	lock 1	24	24	93:3289 Home - Add - Screen	1	3B94ED
+93:3407	tick	24	24	93:3289 Home - Add - Screen	1	3B94ED
+48:4754	div	72	72	48:4726 Videos - Empty State Screen	1	EFEDE7
+48:4788	div	72	72	48:4760 Audio - Empty State Screen	1	EFEDE7
+48:4822	div	72	72	48:4794 Files - Empty State Screen	1	EFEDE7
+48:4886	lock-icon	45	45	48:4828 Home Screen	2	FCFCFF
+48:4891	lock-icon	45	45	48:4828 Home Screen	2	FCFCFF
+48:4896	lock-icon	45	45	48:4828 Home Screen	2	FCFCFF
+48:4901	lock-icon	45	45	48:4828 Home Screen	2	FCFCFF

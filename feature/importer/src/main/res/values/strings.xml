@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="importer_all">All</string>
+    <string name="importer_gallery">Gallery</string>
+    <string name="importer_browse">Browse device storage</string>
+    <string name="importer_hide_n">Hide %1$d %2$s</string>
+    <string name="importer_empty_title">Nothing here yet</string>
+    <string name="importer_empty_message">Use “Browse device storage” to pick files from any folder.</string>
+    <string name="importer_allow_access">Allow access</string>
+    <string name="importer_needs_permission">Allow access to your media to see it here, or browse device storage.</string>
+    <string name="importer_some_failed">%1$d couldn\'t be hidden</string>
+</resources>

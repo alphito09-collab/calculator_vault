@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audios_empty_title">No audio yet</string>
+    <string name="audios_empty_message">Import audio from your gallery to keep them private.</string>
+    <string name="audios_import">Import audio</string>
+    <string name="audios_recorded">Recorded</string>
+    <string name="audios_player_title">Audio Player</string>
+    <string name="audios_equalizer">Equalizer</string>
+    <string name="audios_speed">Playback speed</string>
+    <string name="audios_queue">Up next</string>
+    <string name="audios_reverb">Reverb</string>
+    <string name="audios_bass">Bass boost</string>
+    <string name="audios_virtualizer">Virtualizer</string>
+    <string name="audios_eq_unavailable">Audio effects aren\'t available on this device. Start playing a track and try again.</string>
+    <string name="audios_reverb_none">None</string>
+    <string name="audios_reverb_small_room">Small room</string>
+    <string name="audios_reverb_medium_room">Medium room</string>
+    <string name="audios_reverb_large_room">Large room</string>
+    <string name="audios_reverb_medium_hall">Medium hall</string>
+    <string name="audios_reverb_large_hall">Large hall</string>
+    <string name="audios_reverb_plate">Plate</string>
+</resources>

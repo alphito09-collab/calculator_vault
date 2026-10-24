@@ -1,0 +1,35 @@
+# App-specific R8 rules. Libraries ship their own consumer rules (Koin annotations generate
+# plain code, kotlinx.serialization, Room, Tink and Media3 are covered by their consumer rules).
+
+# --- Logging: release builds never log -------------------------------------------------------
+-assumenosideeffects class android.util.Log {
+    public static int v(...);
+    public static int d(...);
+    public static int i(...);
+    public static int w(...);
+    public static int e(...);
+}
+-assumenosideeffects class timber.log.Timber$Forest {
+    public void v(...);
+    public void d(...);
+    public void i(...);
+    public void w(...);
+    public void e(...);
+    public timber.log.Timber$Tree tag(...);
+}
+
+# --- Credential Manager + Google ID (reflection-based provider lookup) ------------------------
+-if class androidx.credentials.CredentialManager
+-keep class androidx.credentials.playservices.** { *; }
+
+# --- Ktor / OkHttp optional dependencies ------------------------------------------------------
+-dontwarn org.slf4j.**
+-dontwarn java.lang.management.**
+-dontwarn io.ktor.utils.io.jvm.nio.**
+-dontwarn com.google.errorprone.annotations.**
+-dontwarn javax.annotation.**
+# Compile-time-only annotation referenced by Play review-ktx.
+-dontwarn com.google.android.gms.common.annotation.NoNullnessRewrite
+
+# --- Components referenced only from the manifest stay reachable ------------------------------
+-keep class com.calculator.vault.feature.settings.data.VaultDeviceAdminReceiver

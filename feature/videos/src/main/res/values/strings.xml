@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="videos_empty_title">No videos yet</string>
+    <string name="videos_empty_message">Import videos from your gallery to keep them private.</string>
+    <string name="videos_import">Import videos</string>
+</resources>

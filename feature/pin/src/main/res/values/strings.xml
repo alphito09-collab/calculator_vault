@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pin_enter_and_press_equal">Enter a 4-digit password and press the = button</string>
+    <string name="pin_reenter_and_confirm">Re-enter password and press = to confirm</string>
+    <string name="pin_mismatch">Password don\'t match. Try again.</string>
+    <string name="pin_reset_password">Reset Password</string>
+    <string name="pin_now_press_equal">Now press equal</string>
+    <string name="pin_create_failed">Couldn\'t save your PIN. Please try again.</string>
+    <string name="pin_current_title">Enter your current PIN</string>
+    <string name="pin_current_subtitle">Confirm it\'s you before setting a new PIN.</string>
+    <string name="pin_new_title">Create new PIN</string>
+    <string name="pin_new_subtitle">This unlocks the vault from the calculator.</string>
+    <string name="pin_confirm_title">Confirm your PIN</string>
+    <string name="pin_confirm_subtitle">Enter the same PIN again.</string>
+    <string name="pin_mismatch_short">PINs don\'t match. Try again.</string>
+    <string name="pin_wrong_current">That PIN isn\'t right. Try again.</string>
+    <string name="pin_changed">PIN changed</string>
+</resources>

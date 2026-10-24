@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recovery_title">Recovery method</string>
+    <string name="recovery_skip">Skip</string>
+    <string name="recovery_continue">Continue</string>
+    <string name="recovery_cancel">Cancel</string>
+    <string name="recovery_headline">Choose one way to secure your account if you forget your password.</string>
+    <string name="recovery_add_fingerprint">Add your fingerprint</string>
+    <string name="recovery_add_pattern">Add pattern</string>
+    <string name="recovery_change_pattern">Change pattern</string>
+    <string name="recovery_add_email">Add your email address</string>
+    <string name="recovery_add_question">Enter answer of security question</string>
+    <string name="recovery_reinstall_note">Your pattern and security answer also unlock your vault after reinstalling the app. Fingerprint and email recovery work on this install only.</string>
+    <string name="recovery_verify_fingerprint">Verify your fingerprint</string>
+    <string name="recovery_fingerprint_unavailable">Fingerprint isn\'t available on this device right now.</string>
+
+    <string name="recovery_pattern_title">Draw your pattern</string>
+    <string name="recovery_pattern_confirm_title">Confirm your pattern</string>
+    <string name="recovery_pattern_hint">Connect at least 4 dots</string>
+    <string name="recovery_pattern_again">Draw the same pattern again</string>
+    <string name="recovery_pattern_too_short">Connect at least 4 dots. Try again.</string>
+    <string name="recovery_pattern_mismatch">Patterns don\'t match. Start over.</string>
+    <string name="recovery_pattern_wrong">Wrong pattern. Try again.</string>
+    <string name="recovery_draw_to_unlock">Draw your pattern</string>
+
+    <string name="recovery_email_headline">Your recovery email address</string>
+    <string name="recovery_email_placeholder">Enter you email address</string>
+    <string name="recovery_email_note">We\'ll send a one-time code to verify this address.</string>
+    <string name="recovery_otp_title">Verify email</string>
+    <string name="recovery_otp_headline">Enter the code</string>
+    <string name="recovery_otp_message">We sent a 6-digit code to %1$s</string>
+    <string name="recovery_verify">Verify</string>
+    <string name="recovery_resend">Resend code</string>
+    <string name="recovery_resend_in">Resend code in %1$s</string>
+    <string name="recovery_error_offline">No internet connection. Connect and try again.</string>
+    <string name="recovery_error_send">Couldn\'t send the code. Please try again.</string>
+    <string name="recovery_error_wrong_code">That code isn\'t right.</string>
+    <string name="recovery_error_verify">Couldn\'t verify the code. Please try again.</string>
+    <string name="recovery_error_generic">Couldn\'t save. Please try again.</string>
+
+    <string name="recovery_question_headline">Answer the security question</string>
+    <string name="recovery_answer_placeholder">Enter your answer</string>
+    <string name="recovery_answer_note">Answers aren\'t case-sensitive.</string>
+    <string name="recovery_pick_question">Choose a question</string>
+    <string name="recovery_wrong_answer">That answer isn\'t right.</string>
+    <string name="recovery_q_first_pet">What was your first pet\'s name?</string>
+    <string name="recovery_q_birth_city">In which city were you born?</string>
+    <string name="recovery_q_first_school">What was the name of your first school?</string>
+    <string name="recovery_q_childhood_friend">What is the name of your childhood best friend?</string>
+    <string name="recovery_q_favorite_teacher">Who was your favorite teacher?</string>
+    <string name="recovery_q_mother_maiden">What is your mother\'s maiden name?</string>
+
+    <string name="recovery_forgot_title">Forgot PIN</string>
+    <string name="recovery_forgot_headline">Recover your vault</string>
+    <string name="recovery_none_available">No recovery method is set up on this device, so the PIN can\'t be reset. Try the PINs you may have used.</string>
+</resources>

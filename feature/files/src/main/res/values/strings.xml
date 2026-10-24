@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="files_empty_title">No files yet</string>
+    <string name="files_empty_message">Import files from your gallery to keep them private.</string>
+    <string name="files_import">Import files</string>
+    <string name="files_unsupported_title">Preview not available</string>
+    <string name="files_unsupported_message">This file type can\'t be shown inside the vault. You can open it with another app; a temporary copy is removed when the vault locks.</string>
+    <string name="files_open_with">Open with…</string>
+    <string name="files_error_title">Couldn\'t open file</string>
+</resources>

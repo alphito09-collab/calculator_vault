@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_title">Cloud backup</string>
+    <string name="backup_backed_up">Backed up</string>
+    <string name="backup_not_yet">Not backed up yet</string>
+    <string name="backup_tap_to_start">Tap “Back up now” to start</string>
+    <string name="backup_last">Last backup %1$s</string>
+    <string name="backup_running">Backing up…</string>
+    <string name="backup_running_percent">%1$d%% uploaded</string>
+    <string name="backup_interrupted">Backup interrupted</string>
+    <string name="backup_stopped_at">Stopped at %1$d%% · %2$s</string>
+    <string name="backup_reason_connection">no connection</string>
+    <string name="backup_reason_auth">sign in again</string>
+    <string name="backup_reason_quota">Drive storage full</string>
+    <string name="backup_reason_unknown">something went wrong</string>
+    <string name="backup_signed_out_title">Back up to Google Drive</string>
+    <string name="backup_signed_out_message">Files are uploaded already encrypted into a hidden app folder only this app can read.</string>
+    <string name="backup_used_of">%1$s of %2$s</string>
+    <string name="backup_free">%1$s free</string>
+    <string name="backup_using">Backup using</string>
+    <string name="backup_wifi_only">Wi-Fi only</string>
+    <string name="backup_wifi_cellular">Wi-Fi &amp; cellular</string>
+    <string name="backup_auto">Auto backup</string>
+    <string name="backup_auto_wifi">Daily over Wi-Fi only</string>
+    <string name="backup_auto_any">Daily over any connection</string>
+    <string name="backup_account">Account</string>
+    <string name="backup_not_signed_in">Not signed in</string>
+    <string name="backup_sign_in">Sign in with Google</string>
+    <string name="backup_sign_out">Sign out</string>
+    <string name="backup_signed_out_toast">Signed out</string>
+    <string name="backup_now">Back up now</string>
+    <string name="backup_retry">Retry backup</string>
+    <string name="backup_restore">Restore from backup</string>
+    <string name="backup_restoring">Restoring…</string>
+    <string name="backup_restore_desc">Download files backed up from this account</string>
+    <string name="backup_error">Couldn\'t reach Google Drive. Please try again.</string>
+    <string name="backup_not_configured">Google sign-in isn\'t configured in this build.</string>
+    <plurals name="backup_restored">
+        <item quantity="one">%1$d file restored</item>
+        <item quantity="other">%1$d files restored</item>
+    </plurals>
+</resources>

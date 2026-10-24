@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Android 12+. Only the wrapped vault config and user settings leave the device; listing
+    includes excludes everything else (keystore-bound device_state, the rebuildable Room index).
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="file" path="vault.json" />
+        <include domain="file" path="datastore/vault_settings.preferences_pb" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="file" path="vault.json" />
+        <include domain="file" path="datastore/vault_settings.preferences_pb" />
+    </device-transfer>
+</data-extraction-rules>

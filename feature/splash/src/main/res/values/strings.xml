@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splash_get_started_title">Let\'s get started with your Calculator Vault</string>
+    <string name="splash_get_started">Get Started</string>
+    <string name="splash_legal_prefix">By continuing, you agree to our</string>
+    <string name="splash_privacy">Privacy Policy</string>
+    <string name="splash_legal_and">and</string>
+    <string name="splash_terms">Terms of Use</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_title">Select language</string>
+    <string name="language_save">Save</string>
+    <string name="language_system">System</string>
+</resources>

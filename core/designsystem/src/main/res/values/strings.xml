@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ds_cd_back">Back</string>
+    <string name="ds_cd_close">Close</string>
+    <string name="ds_cd_more">More options</string>
+    <string name="ds_cd_selected">Selected</string>
+    <string name="ds_cd_backspace">Delete digit</string>
+    <string name="ds_selected_count">%1$d Selected</string>
+    <string name="ds_select_all">Select all</string>
+    <string name="ds_deselect_all">Deselect all</string>
+    <string name="ds_cancel">Cancel</string>
+    <string name="ds_ok">OK</string>
+    <string name="ds_home">Home</string>
+    <string name="ds_settings">Settings</string>
+    <string name="ds_add">Add</string>
+    <string name="ds_dismiss">Dismiss</string>
+</resources>

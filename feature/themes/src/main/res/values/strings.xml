@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="themes_title">Theme</string>
+    <string name="themes_subtitle">Choose how Calculator Vault looks.</string>
+    <string name="themes_system">System default</string>
+    <string name="themes_system_desc">Follows your device setting</string>
+    <string name="themes_light">Light</string>
+    <string name="themes_light_desc">Warm off-white and blue accent</string>
+    <string name="themes_dark">Dark</string>
+    <string name="themes_dark_desc">Nocturne ground, accent as a glow</string>
+</resources>

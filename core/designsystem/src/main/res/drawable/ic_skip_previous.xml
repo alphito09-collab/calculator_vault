@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated from design assets by svg2vd.py; do not edit by hand. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0">
+    <path
+        android:pathData="M4 4L6.85714 4L6.85714 20L4 20L4 4ZM20 20L20 4L8.57143 12L20 20Z"
+        android:fillColor="#FF000000" />
+</vector>
